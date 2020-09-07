@@ -6,7 +6,7 @@ We find a website where you can upload files. It specifies its a python emulator
 
 ![index.html](index.png)
 
-Thereafter if you upload a file succesfully it will give you a response with hello normal user.
+Thereafter if you upload a file succesfully it will give you a response with hello ordinary user.
 
 ![first upload](uploading.png)
 
